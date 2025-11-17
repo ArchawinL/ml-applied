@@ -1,0 +1,14 @@
+# Compiled
+*.o
+*.out
+*.exe
+regression
+
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# IDE
+.vscode/
+.DS_Store
